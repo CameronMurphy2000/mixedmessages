@@ -21,12 +21,6 @@ function getBackground() {
         return `With a background as a(n) ${background[randomBackground]}.`;
 };
 
-
-
-
-
-
-
 console.log(getRace());
 console.log(getClass());
 console.log(getBackground());
